@@ -13,7 +13,7 @@ public class TC001_CreateLead extends ProjectHooks{
 		testcaseName = "Create Lead";
 		testDescription ="Create a new Lead";
 		authors="Babu";
-		category ="Smoke";
+		category ="SmokeNow";
 	}
 	
 	@Test()
